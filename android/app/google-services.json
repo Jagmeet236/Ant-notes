@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "165989194094",
+    "project_id": "ant-notes",
+    "storage_bucket": "ant-notes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165989194094:android:4e5c76c10a7b9883e2c97f",
+        "android_client_info": {
+          "package_name": "com.example.ant_notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165989194094-gkamnhj3ritj4r95tr0o1urt3mfs1ukm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVP9_Md4Z9uHbBe4Ukv1QiC0s3Vp3K9Xk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165989194094-gkamnhj3ritj4r95tr0o1urt3mfs1ukm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
